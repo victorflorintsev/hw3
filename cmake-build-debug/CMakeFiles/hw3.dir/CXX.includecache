@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Victor/CLionProjects/hw3/Node.cpp
+Node.h
+C:/Users/Victor/CLionProjects/hw3/Node.h
+
+C:/Users/Victor/CLionProjects/hw3/Node.h
+
+C:/Users/Victor/CLionProjects/hw3/Tree.cpp
+iostream
+-
+queue
+-
+Tree.h
+C:/Users/Victor/CLionProjects/hw3/Tree.h
+
+C:/Users/Victor/CLionProjects/hw3/Tree.h
+queue
+-
+Node.h
+C:/Users/Victor/CLionProjects/hw3/Node.h
+
+C:/Users/Victor/CLionProjects/hw3/main.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+Tree.h
+C:/Users/Victor/CLionProjects/hw3/Tree.h
+
